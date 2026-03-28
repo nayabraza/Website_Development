@@ -272,3 +272,12 @@ footer {
   opacity: 1;
   transform: translateY(0);
 }
+
+.project-card:hover {
+  transform: scale(1.05);
+  transition: 0.3s;
+}
+
+section {
+  margin-bottom: 60px;
+}
